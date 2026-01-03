@@ -1,0 +1,3 @@
+pip install -r requirements.txt
+python src/forecast_model.py
+python src/visualization.py
