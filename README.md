@@ -1,7 +1,4 @@
-Below is a **clean, detailed, production-quality `README.md`** you can **copy-paste directly** into GitHub.
-It contains **NO code**, only **documentation**, written exactly how strong analytics / data engineering repos are documented.
 
----
 
 # ❄️ Snow & Ice Removal Performance Forecasting
 
@@ -14,7 +11,7 @@ It contains **NO code**, only **documentation**, written exactly how strong anal
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Winter operations are one of the most complex and resource-intensive responsibilities for northern municipalities.
 Snow and ice control must balance:
@@ -36,7 +33,7 @@ The prototype focuses on forecasting:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 This prototype was designed to achieve the following objectives:
 
@@ -82,7 +79,7 @@ Provide:
 
 ---
 
-## 🏙️ Operational Context (Why This Matters)
+##  Operational Context 
 
 Snow and ice removal is not driven solely by total snowfall.
 
@@ -111,7 +108,7 @@ This project aligns directly with those principles.
 
 ---
 
-## 🧪 Data Description (Dummy / Simulated)
+##  Data Description 
 
 ### Historical Winter Data
 
@@ -155,7 +152,7 @@ This allows forecast results to be:
 
 ---
 
-## 🧠 Methodology (High-Level)
+## High Level Methodology 
 
 The project follows a standard analytics workflow:
 
@@ -191,7 +188,7 @@ This approach is intentionally conservative and transparent, making it suitable 
 
 ---
 
-## 📊 Outputs Produced
+##  Outputs Produced
 
 The project generates:
 
@@ -217,7 +214,7 @@ These outputs allow stakeholders to:
 
 ---
 
-## 🧰 Technology Stack
+##  Technology Stack
 
 The prototype uses a modern, analytics-focused stack:
 
@@ -229,30 +226,11 @@ The prototype uses a modern, analytics-focused stack:
 
 The stack is intentionally lightweight, portable, and reproducible.
 
----
 
-## 📁 Repository Structure
 
-The repository is organized for clarity and scalability:
 
-* `data/`
-  Input datasets (dummy historical and spatial data)
 
-* `src/`
-  Analysis and visualization scripts
-
-* `images/`
-  Generated visual outputs embedded in the README
-
-* `README.md`
-  Full project documentation
-
-* `requirements.txt`
-  Environment reproducibility
-
----
-
-## 🧭 Results & Interpretation
+##  Results & Interpretation
 
 The prototype forecast indicates:
 
@@ -260,15 +238,13 @@ The prototype forecast indicates:
 * Increased operational demand compared to an unusually mild year
 * More frequent residential clearing cycles
 
-### Why this matters:
-
 * Mild winters can distort budgeting if used alone
 * Forecasting helps avoid under-resourcing
 * Anticipating residential blading frequency improves public communication and planning
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 This prototype intentionally has limitations:
 
@@ -281,7 +257,7 @@ These limitations are appropriate for a **proof-of-concept** and are explicitly 
 
 ---
 
-## 🔮 Future Enhancements
+
 
 Potential extensions include:
 
@@ -294,7 +270,7 @@ Potential extensions include:
 
 ---
 
-## ✅ Why This Project Matters
+
 
 This project demonstrates:
 
@@ -308,7 +284,6 @@ It shows how **predictive analytics** can move winter operations from **reactive
 
 ---
 
-## 🧊 Final Note
 
 While simplified, this prototype reflects how municipalities can:
 
@@ -319,13 +294,4 @@ While simplified, this prototype reflects how municipalities can:
 
 It serves as a strong foundation for real-world implementation and further technical expansion.
 
----
 
-If you want next, I can:
-
-* Tighten this into a **recruiter-focused README**
-* Create a **1-page executive summary**
-* Add **KPIs + metrics language**
-* Map this directly to **Data Engineer / Data Scientist resume bullets**
-
-Just tell me what you want to optimize for.
