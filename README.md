@@ -2,7 +2,7 @@
 
 # ❄️ Snow & Ice Removal Performance Forecasting
 
-### City of Edmonton — Prototype (Dummy Data)
+### City of Edmonton — Prototype
 
 > **Disclaimer**
 > This repository is a **proof-of-concept prototype** built using **simulated (dummy) data**.
